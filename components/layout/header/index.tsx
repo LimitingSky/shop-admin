@@ -1,4 +1,4 @@
-export const Nav = (props) => {
+export const Nav = () => {
   return (
     <div className="flex w-full max-h-14 flex-1 flex-row items-center justify-between bg-gray-900 px-0 py-0">
       <div className="mx-20">logo</div>
