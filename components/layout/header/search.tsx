@@ -2,7 +2,7 @@ import { AiOutlineSearch } from 'react-icons/ai'
 
 export const Search = () => {
     return(
-        <div className="flex bg-white justify-center items-center px-8 h-14 w-screen relative shadow-lg shadow-slate-200">
+        <div className="flex bg-white justify-center items-center px-8 h-14 w-screen relative shadow-2xl ">
             <div>
                 <a href="#" className="text-gray-700 uppercase px-4 py-4 hover:text-gray-900">Popular</a>
                 <a href="#" className="text-gray-700 uppercase px-4 py-4 hover:text-gray-900">Most Viewed</a>
