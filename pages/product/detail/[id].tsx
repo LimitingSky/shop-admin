@@ -33,8 +33,8 @@ export default function Detail() {
           </div>
           <div className="mt-12 flex flex-row items-center">
             <div className="relative flex items-center font-bold text-indigo-600 mr-12">
-              <span className="text-center text-xl">$</span>
-              <span className="text-4xl">120</span>
+              <span className="text-center text-4xl">$</span>
+              <span className="text-5xl">120</span>
             </div>
             <text className="text-base text-gray-800 font-cabin">
                 Style #: 121212
